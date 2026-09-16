@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    font-family: Arial, Times, sans-serif;
+    color: blue;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+    color: black;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 3px solid #00274c;
+}
